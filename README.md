@@ -1,5 +1,5 @@
 
-🌱 I’m currently learning Flutter.<br>
+🌱 I love learning Flutter.<br>
 
 
 
